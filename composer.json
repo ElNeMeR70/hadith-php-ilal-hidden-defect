@@ -1,0 +1,9 @@
+{
+  "name": "elnemer70/hadith-php-ilal-hidden-defect",
+  "description": "Hadith Ilal Hidden Defect & Shudhudh Anomaly Detector (كاشف العلل الخفية والشذوذ والاضطراب في الأسانيد)",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.1"
+  }
+}
